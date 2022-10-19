@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/MemoryCard/static/css/main.adf48c2d.css",
-    "main.js": "/MemoryCard/static/js/main.6a70dd86.js",
-    "static/media/grime.png": "/MemoryCard/static/media/grime.4d0c382e57f14859f73e.png",
-    "static/media/hoppop.png": "/MemoryCard/static/media/hoppop.bdf9504c1512f5dbf9b4.png",
-    "index.html": "/MemoryCard/index.html",
-    "main.adf48c2d.css.map": "/MemoryCard/static/css/main.adf48c2d.css.map",
-    "main.6a70dd86.js.map": "/MemoryCard/static/js/main.6a70dd86.js.map"
+    "main.css": "/CV-App/static/css/main.5b305759.css",
+    "main.js": "/CV-App/static/js/main.f77263f2.js",
+    "index.html": "/CV-App/index.html",
+    "main.5b305759.css.map": "/CV-App/static/css/main.5b305759.css.map",
+    "main.f77263f2.js.map": "/CV-App/static/js/main.f77263f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.adf48c2d.css",
-    "static/js/main.6a70dd86.js"
+    "static/css/main.5b305759.css",
+    "static/js/main.f77263f2.js"
   ]
 }
