@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/CV-App/static/css/main.5b305759.css",
-    "main.js": "/CV-App/static/js/main.f77263f2.js",
-    "index.html": "/CV-App/index.html",
-    "main.5b305759.css.map": "/CV-App/static/css/main.5b305759.css.map",
-    "main.f77263f2.js.map": "/CV-App/static/js/main.f77263f2.js.map"
+    "main.css": "/MemoryCard/static/css/main.adf48c2d.css",
+    "main.js": "/MemoryCard/static/js/main.d0aad7fb.js",
+    "static/media/loggle.png": "/MemoryCard/static/media/loggle.1b852d43e44df5c1ac20.png",
+    "static/media/croaker.png": "/MemoryCard/static/media/croaker.977b3063a703f313a820.png",
+    "static/media/sylvia.png": "/MemoryCard/static/media/sylvia.2810c35be49f95a55dc8.png",
+    "static/media/toadstool.jpg": "/MemoryCard/static/media/toadstool.77f7968d465e71ade2da.jpg",
+    "static/media/grime.png": "/MemoryCard/static/media/grime.4d0c382e57f14859f73e.png",
+    "static/media/hoppop.png": "/MemoryCard/static/media/hoppop.bdf9504c1512f5dbf9b4.png",
+    "static/media/wally.png": "/MemoryCard/static/media/wally.6f127c1f0c909a24374e.png",
+    "static/media/sasha.jpg": "/MemoryCard/static/media/sasha.1d53515b533e1e26d441.jpg",
+    "static/media/maddie.jpg": "/MemoryCard/static/media/maddie.807c74ce60527eacdfa8.jpg",
+    "static/media/anne.jpg": "/MemoryCard/static/media/anne.d5e81b39ef3842cd50de.jpg",
+    "index.html": "/MemoryCard/index.html",
+    "main.adf48c2d.css.map": "/MemoryCard/static/css/main.adf48c2d.css.map",
+    "main.d0aad7fb.js.map": "/MemoryCard/static/js/main.d0aad7fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b305759.css",
-    "static/js/main.f77263f2.js"
+    "static/css/main.adf48c2d.css",
+    "static/js/main.d0aad7fb.js"
   ]
 }
